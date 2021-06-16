@@ -15,8 +15,5 @@ public class CastingType {
         int myIntOne=(int) myDoubleOne; //KeyPoint
         //Result
         System.out.println(myIntOne);
-
-
-
     }
 }
