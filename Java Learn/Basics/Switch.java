@@ -1,8 +1,8 @@
-package com.Tamizha1;
+package com.Tamizha;
 
 import java.util.Scanner;
 
-public class A10switch {public static void main(String[]args){
+public class Switch {public static void main(String[]args){
     String name;
     Scanner inputName=new Scanner(System.in);
     name=inputName.next();
