@@ -1,10 +1,10 @@
-package com.Tamizha1;
+package com.Tamizha;
 
 import org.w3c.dom.CDATASection;
 
 import java.util.Scanner;
 
-public class A11Loop {public static void main(String[]args){
+public class Loop {public static void main(String[]args){
 
     //loops
 
@@ -31,15 +31,6 @@ public class A11Loop {public static void main(String[]args){
         System.out.println("Do While Loop");
         number--;}
     while (number>0);
-
-    //For Each Loop or Inhanced Loop
-
-    String data[]={"ng","mg","jg"};
-    for (int i=0;i<data.length;i++){
-        System.out.println(data[i]);
-    }
-    for ( String datas:data){
-        System.out.println(datas);
     }
 
 }}
