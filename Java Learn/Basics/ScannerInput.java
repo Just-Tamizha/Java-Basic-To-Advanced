@@ -2,7 +2,7 @@ package com.Tamizha;
 
 import java.util.Locale;
 import java.util.Scanner;
-public class Scanner {public static void main(String[]args){
+public class ScannerInput {public static void main(String[]args){
 //Without String
     int number;
     //Important Code For Collect Data
