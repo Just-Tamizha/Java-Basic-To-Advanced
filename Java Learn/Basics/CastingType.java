@@ -12,7 +12,7 @@ public class CastingType {
         //Narrow Casting
         //Hint : Double  to int
         double myDoubleOne=25.00;
-        int myIntOne=(int) myDoubleOne;
+        int myIntOne=(int) myDoubleOne; //KeyPoint
         //Result
         System.out.println(myIntOne);
 
