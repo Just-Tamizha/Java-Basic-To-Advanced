@@ -12,4 +12,6 @@
 
 [-If Else](https://github.com/JustTamizha/Tamizha/blob/d2769c9e691c7b76aa10d376d2d5a264f2e768e8/Java%20Learn/Basics/ifelse.java)
 
-[Switch](https://github.com/JustTamizha/Tamizha/blob/02fd543fea0e77433f3fdfeb360792f58bf955bd/Java%20Learn/Basics/Switch.java)
+[-Switch](https://github.com/JustTamizha/Tamizha/blob/02fd543fea0e77433f3fdfeb360792f58bf955bd/Java%20Learn/Basics/Switch.java)
+
+[-Loop](https://github.com/JustTamizha/Tamizha/blob/76e59327cc0d9866787ed9c4076ee93d2c2a2469/Java%20Learn/Basics/Loop.java)
