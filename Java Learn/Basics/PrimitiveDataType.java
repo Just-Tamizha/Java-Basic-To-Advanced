@@ -11,6 +11,9 @@ public class PrimitiveDataType{public static void main(String[]args){
     double f=12355.10258;//64 Bits
     char g='A';//16 Bits
     boolean h=true;//1 Bits
+//Important : Scientific Numbers
+    float i=1e2f;
+    double j=1e2d;
 //System Result
-   //System.out.println();
+   System.out.println();
 }}
