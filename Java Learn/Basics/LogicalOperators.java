@@ -1,6 +1,6 @@
 package com.Tamizha;
 public class
-A5LogicalOperators {public static void main(String[]args){
+LogicalOperators {public static void main(String[]args){
 //Logical Operators
     int ageOfPerson=10;
     boolean indianCitizen=true;
