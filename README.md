@@ -8,6 +8,8 @@
 
 [-Casting Type](https://github.com/JustTamizha/Tamizha/blob/fd19723dda3675a67f11f10ceae437f98e309cdd/Java%20Learn/Basics/CastingType.java)
 
+[-LogicalOperators](https://github.com/JustTamizha/Tamizha/blob/d7774bfd8f5a2d1a24a6f05a1621691db6024044/Java%20Learn/Basics/LogicalOperators.java)
+
 [-ConCat](https://github.com/JustTamizha/Tamizha/blob/87fca2a453041c3cdfc36cb75030d0fb8709e4c9/Java%20Learn/Basics/ConCat.java)
 
 [-ScannerInput](https://github.com/JustTamizha/Tamizha/blob/7541635f63839f5bee6c59a3583b929fb00def28/Java%20Learn/Basics/ScannerInput.java)
