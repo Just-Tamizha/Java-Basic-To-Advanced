@@ -12,7 +12,7 @@
 
 [-LogicalOperators](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/LogicalOperators.java)
 
-[-ConCat](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/ConCat.java)
+[-String](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/string.java)
 
 [-ScannerInput](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/ScannerInput.java)
 
