@@ -2,9 +2,9 @@
 ## Basics
 [-Hello World](https://github.com/JustTamizha/Tamizha/blob/248abb9277d25059e5928df138bb71fe49c498bc/Java%20Learn/Basics/HelloWorld.java)
 
-[-Primitive DataType](https://github.com/JustTamizha/Tamizha/blob/10cb26a4301307983be188004a919ead1e31f1c9/Java%20Learn/Basics/PrimitiveDataType.java)
-
 [-Final](https://github.com/JustTamizha/Tamizha/blob/daeaeeb257a7c7dd109f254dd0c3486be2fd6551/Java%20Learn/Basics/FinalValue.java)
+
+[-Primitive DataType](https://github.com/JustTamizha/Tamizha/blob/10cb26a4301307983be188004a919ead1e31f1c9/Java%20Learn/Basics/PrimitiveDataType.java)
 
 [-Casting Type](https://github.com/JustTamizha/Tamizha/blob/fd19723dda3675a67f11f10ceae437f98e309cdd/Java%20Learn/Basics/CastingType.java)
 
