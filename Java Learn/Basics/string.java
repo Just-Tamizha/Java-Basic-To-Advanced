@@ -20,4 +20,10 @@ public class string {public static void main(String[]args){
     char b =Name.charAt(3);
 //System Result
     System.out.println(b);
+    
+    //ConCat
+    String a="Vinoth";
+    String c="Tamizha";
+    System.out.println(a.concat(c));
+    
 }}
