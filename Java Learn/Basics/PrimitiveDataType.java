@@ -11,12 +11,6 @@ public class PrimitiveDataType{public static void main(String[]args){
     double f=12355.10258;//64 Bits
     char g='A';//16 Bits
     boolean h=true;//1 Bits
-    String i="Tamizha";
 //System Result
    //System.out.println();
-//Another Methods of char(String Operations)
-    String aA="Tamizha";
-    char aB=aA.charAt(0);
-//System Result
-    System.out.println(aB);
 }}
