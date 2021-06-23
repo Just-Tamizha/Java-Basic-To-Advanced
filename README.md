@@ -16,6 +16,8 @@
 
 [-Mathematics](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/Maths.java)
 
+[-Boolean](https://www.w3schools.com/java/java_booleans.asp)
+
 [-ScannerInput](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/ScannerInput.java)
 
 [-If Else](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/ifelse.java)
