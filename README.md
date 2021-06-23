@@ -24,4 +24,6 @@
 
 [-Loop](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/Loop.java)
 
+[-BreakContinue](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/BreakContinue.java)
+
 [-ScannerInput](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/ScannerInput.java)
