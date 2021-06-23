@@ -22,6 +22,6 @@
 
 [-switchCase](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/switchCase.java)
 
-[-ScannerInput](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/ScannerInput.java)
-
 [-Loop](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/Loop.java)
+
+[-ScannerInput](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/ScannerInput.java)
