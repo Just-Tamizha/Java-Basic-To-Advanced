@@ -2,25 +2,25 @@ package com.Tamizha;
 
 import java.util.Scanner;
 
-public class Switch {public static void main(String[]args){
+public class switchCase {public static void main(String[]args){
     String name;
     Scanner inputName=new Scanner(System.in);
     name=inputName.next();
 //Main Code Must Listen
     switch (name){
-        case"tamizha" :
+        case"Tamizha" :
             System.out.println("Hi "+ name);
             break;
-        case "vinoth" :
+        case "Vinoth" :
             System.out.println("Hi "+ name);
             break;
-        case "vinot" :
+        case "Vinot" :
             System.out.println("Hi "+ name);
             break;
-        case "vino" :
+        case "Vino" :
             System.out.println("Hi "+ name);
             break;
         default:
-            System.out.println("Not in List");
+            System.out.println("Sorry Sir,Your name Not in List");
     }
 }}
