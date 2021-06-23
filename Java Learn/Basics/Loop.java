@@ -34,7 +34,7 @@ public class Loop {public static void main(String[]args){
 
     //For Each Loop or Inhanced Loop
 
-    String data[]={"Tamizha","Vinoth","ProTamizha"};
+    String data[]={"Tamizha ","Vinoth ","ProTamizha "};
     for (int i=0;i<data.length;i++){
        System.out.println(data[i]);
     }
