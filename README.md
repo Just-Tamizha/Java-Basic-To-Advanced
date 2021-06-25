@@ -2,4 +2,4 @@
 
 # Java Learn
 
-[-Basics](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/README.md)
+[-Basics](https://github.com/JustTamizha/Tamizha/blob/main/Locate/README.md)
