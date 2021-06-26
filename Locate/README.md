@@ -24,4 +24,6 @@
 
 [-BreakContinue](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/BreakContinue.java)
 
+[-Array](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/array.java)
+
 [-ScannerInput](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/ScannerInput.java)
