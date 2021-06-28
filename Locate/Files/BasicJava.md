@@ -29,3 +29,5 @@
 [-ScannerInput](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/ScannerInput.java)
 
 [-MethodCalling](https://github.com/JustTamizha/Tamizha/blob/main/Java%20Learn/Basics/MethodCalling.java)
+
+## [Exit Here](https://github.com/JustTamizha/Tamizha/blob/main/Locate/README.md)
